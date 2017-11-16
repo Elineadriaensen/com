@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-03_0206",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 28,
+    "uniqCompNum": 29,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -359,7 +359,53 @@
         "title": "Drawings",
         "order": 6
       },
-      "components": []
+      "components": [
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "5",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": true,
+            "images": [
+              {
+                "tags": "Drawings",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-70-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-70-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "grafiek",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0007-kopie-3-1951x2751.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0007-kopie-3-1951x2751-800x1128.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery4",
+          "_anchor": "gallery4-s"
+        }
+      ]
     },
     "page5.html": {
       "settings": {
