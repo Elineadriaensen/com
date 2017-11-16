@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 27,
+    "uniqCompNum": 28,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -500,7 +500,152 @@
         "title": "By night",
         "order": 4
       },
-      "components": []
+      "components": [
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "5",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": true,
+            "images": [
+              {
+                "tags": "color",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img16w2-1010x1556.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img16w2-1010x1556-800x1232.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "color",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0178-kopie-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0178-kopie-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "color",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0153-kopie-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0153-kopie-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "color",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0180-kopie-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0180-kopie-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "color",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img206-kopie-1199x1799.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img206-kopie-1199x1799-799x1200.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nature",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20160910-0025-kopie-2-2000x2990.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160910-0025-kopie-2-2000x2990-800x1196.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animals",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-4262-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-4262-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animals",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img239-2000x1286.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img239-2000x1286-800x514.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nature",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img247-kopie-1837x1178.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img247-kopie-1837x1178-800x513.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Plastic",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img109-1742x1143.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img109-1742x1143-800x524.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Plastic",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img102-1800x1207.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img102-1800x1207-800x536.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery4",
+          "_anchor": "gallery4-r"
+        }
+      ]
     },
     "page7.html": {
       "settings": {
@@ -550,7 +695,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/csc-0118-kopie-2-1920x1280-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "lines",
@@ -559,17 +704,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/dsc-127-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-127-2000x1333-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "lines",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-128-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-128-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -594,18 +728,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-129-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "sky",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img215-kopie-1524x1247.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img215-kopie-1524x1247-800x654.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "sky",
@@ -650,6 +773,72 @@
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "at the beach",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img125-1799x1157.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img125-1799x1157-800x514.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "at the beach",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img139-kopie-1057x1168.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img139-kopie-1057x1168-800x884.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "at the beach",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img141-kopie-1799x1170.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img141-kopie-1799x1170-800x520.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "at the beach",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img120-1799x1162.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img120-1799x1162-800x516.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "lines",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-124-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-124-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "lines",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-130-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-130-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -659,7 +848,12 @@
           "articleLayout": false,
           "allItem": "All",
           "_name": "gallery4",
-          "_anchor": "gallery4-p"
+          "_anchor": "gallery4-p",
+          "_styles": {
+            "LI": {
+              "text-align": "right"
+            }
+          }
         }
       ]
     },
