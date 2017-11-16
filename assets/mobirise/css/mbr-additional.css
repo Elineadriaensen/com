@@ -411,9 +411,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #faaf40;
 }
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 #header1-0 .btn {
   font-size: 15px;
   font-family: 'Roboto', sans-serif;
