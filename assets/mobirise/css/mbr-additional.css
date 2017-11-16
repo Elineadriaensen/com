@@ -6,7 +6,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -78,7 +77,7 @@ h6,
   font-family: 'Lora', serif;
 }
 .bg-primary {
-  background-color: #faaf40 !important;
+  background-color: #efefef !important;
 }
 .bg-success {
   background-color: #90a878 !important;
@@ -93,8 +92,8 @@ h6,
   background-color: #f28281 !important;
 }
 .btn-primary {
-  background-color: #faaf40;
-  border-color: #faaf40;
+  background-color: #efefef;
+  border-color: #efefef;
   color: #ffffff;
 }
 .btn-primary:hover,
@@ -103,14 +102,14 @@ h6,
 .btn-primary:active,
 .btn-primary.active {
   color: #ffffff;
-  background-color: #e78d06;
-  border-color: #e78d06;
+  background-color: #c9c9c9;
+  border-color: #c9c9c9;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #e78d06 !important;
-  border-color: #e78d06 !important;
+  background-color: #c9c9c9 !important;
+  border-color: #c9c9c9 !important;
 }
 .btn-secondary {
   background-color: #bfcecb;
@@ -214,8 +213,8 @@ h6,
 }
 .btn-primary-outline {
   background: none;
-  border-color: #cf7d05;
-  color: #cf7d05;
+  border-color: #bcbcbc;
+  color: #bcbcbc;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
@@ -223,14 +222,14 @@ h6,
 .btn-primary-outline:active,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #faaf40;
-  border-color: #faaf40;
+  background-color: #efefef;
+  border-color: #efefef;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #faaf40 !important;
-  border-color: #faaf40 !important;
+  background-color: #efefef !important;
+  border-color: #efefef !important;
 }
 .btn-secondary-outline {
   background: none;
@@ -333,7 +332,7 @@ h6,
   border-color: #f28281 !important;
 }
 .text-primary {
-  color: #faaf40 !important;
+  color: #efefef !important;
 }
 .text-success {
   color: #90a878 !important;
@@ -360,32 +359,32 @@ h6,
   background-color: #f28281;
 }
 .btn-social {
-  border-color: #faaf40;
+  border-color: #efefef;
 }
 .btn-social:hover {
-  background: #faaf40;
+  background: #efefef;
 }
 .mbr-company .list-group-item.active .list-group-text {
-  color: #faaf40;
+  color: #efefef;
 }
 .mbr-footer p a,
 .mbr-footer ul a {
-  color: #faaf40;
+  color: #efefef;
 }
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #faaf40;
+  background: #efefef;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #faaf40;
+  color: #efefef;
 }
 .lead a,
 .lead a:hover {
-  color: #faaf40;
+  color: #efefef;
 }
 .lead blockquote {
-  border-color: #faaf40;
+  border-color: #efefef;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
@@ -409,20 +408,11 @@ h6,
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
-  color: #faaf40;
+  color: #efefef;
 }
 #header1-0 .btn {
   font-size: 15px;
   font-family: 'Roboto', sans-serif;
-}
-#features3-b H5 {
-  color: #000000;
-  text-align: center;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 15px;
-}
-#features3-b SPAN {
-  font-size: 18px;
 }
 #menu-g .hide-buttons .nav-btn {
   display: none !important;
@@ -452,7 +442,7 @@ h6,
 #menu-g .dropdown-item:hover,
 #menu-g .link:focus,
 #menu-g .dropdown-item:focus {
-  color: #faaf40;
+  color: #efefef;
 }
 #menu-g .link[aria-expanded="true"],
 #menu-g .dropdown-menu {
@@ -479,7 +469,7 @@ h6,
 }
 #menu-g .bg-color.transparent.opened .link:hover,
 #menu-g .bg-color.transparent.opened .link:focus {
-  color: #faaf40;
+  color: #efefef;
 }
 #menu-g .link[aria-expanded="true"],
 #menu-g .dropdown-item[aria-expanded="true"] {
@@ -519,7 +509,7 @@ h6,
 #menu-o .dropdown-item:hover,
 #menu-o .link:focus,
 #menu-o .dropdown-item:focus {
-  color: #faaf40;
+  color: #efefef;
 }
 #menu-o .link[aria-expanded="true"],
 #menu-o .dropdown-menu {
@@ -546,7 +536,7 @@ h6,
 }
 #menu-o .bg-color.transparent.opened .link:hover,
 #menu-o .bg-color.transparent.opened .link:focus {
-  color: #faaf40;
+  color: #efefef;
 }
 #menu-o .link[aria-expanded="true"],
 #menu-o .dropdown-item[aria-expanded="true"] {
