@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-03_0206",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -378,22 +378,176 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-70-2000x3000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-70-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-2-1000x695.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-2-1000x695-800x556.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Drawings",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-15-1000x708.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-15-1000x708-800x566.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "grafiek",
+                "tags": "Drawings",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0007-kopie-3-1951x2751.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0007-kopie-3-1951x2751-800x1128.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-15-1000x708.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-15-1000x708-800x566.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Drawings",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-31-1000x898.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-31-1000x898-800x718.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Drawings",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-35-1000x696.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-35-1000x696-800x556.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Drawings",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-45-1000x694.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-45-1000x694-800x555.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Drawings",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-51-943x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-51-943x1000-800x848.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Drawings",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-55-1000x721.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-55-1000x721-800x576.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Drawings",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-59-1000x705.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-59-1000x705-800x564.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Drawings",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-64-1000x681.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-64-1000x681-800x544.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Drawings",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-67-683x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-67-683x1000-683x1000.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Drawings",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-72-679x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-72-679x1000-679x1000.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Grafiek",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-7-691x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-7-691x1000-691x1000.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Grafiek",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-42-1000x715.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-42-1000x715-800x572.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Grafiek",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-62-1000x556.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-62-1000x556-800x444.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Grafiek",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-68-1000x719.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-68-1000x719-800x575.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
