@@ -898,7 +898,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img12gg9-kopie-588x882-588x882.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "at the beach",
@@ -1000,18 +1000,7 @@
                 "active": false
               },
               {
-                "tags": "sky",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img219-kopie-2000x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img219-kopie-2000x1280-800x512.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "sky",
+                "tags": "black and white",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1028,17 +1017,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/img-20160708-0003-kopie-2-1049x1223.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20160708-0003-kopie-2-1049x1223-800x932.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "sky",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-20160708-0003-kopie-3-1039x1206.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20160708-0003-kopie-3-1039x1206-800x928.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -1107,7 +1085,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-0450-kopie-2000x3000-800x1200.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
