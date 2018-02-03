@@ -1,8 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
 
 
@@ -413,19 +412,6 @@ h6,
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
   color: #efefef;
-}
-#header1-2g .btn {
-  font-size: 15px;
-  font-family: 'Roboto', sans-serif;
-}
-#msg-box5-1c SPAN {
-  font-size: 22px;
-}
-#msg-box5-1c .btn {
-  font-size: 19px;
-}
-#msg-box4-1d .btn {
-  font-size: 19px;
 }
 #ext_menu-2f .hide-buttons .nav-btn {
   display: none !important;
