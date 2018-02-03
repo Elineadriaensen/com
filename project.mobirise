@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-03_0206",
-    "currentPage": "index.html",
+    "currentPage": "page17.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 89,
+    "uniqCompNum": 93,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -350,7 +350,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Photographie",
-        "order": 13
+        "order": 16
       },
       "components": [
         {
@@ -466,7 +466,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Drawings",
-        "order": 12
+        "order": 15
       },
       "components": [
         {
@@ -740,7 +740,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "By night",
-        "order": 11
+        "order": 14
       },
       "components": [
         {
@@ -893,7 +893,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "video",
-        "order": 10
+        "order": 13
       },
       "components": [
         {
@@ -958,7 +958,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "By day",
-        "order": 9
+        "order": 12
       },
       "components": [
         {
@@ -1303,7 +1303,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Contact",
-        "order": 8
+        "order": 11
       },
       "components": [
         {
@@ -1446,7 +1446,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Page 9",
-        "order": 7
+        "order": 10
       },
       "components": [
         {
@@ -1636,7 +1636,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Page 11",
-        "order": 6
+        "order": 9
       },
       "components": [
         {
@@ -1799,7 +1799,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Page 12",
-        "order": 5
+        "order": 8
       },
       "components": [
         {
@@ -1842,7 +1842,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Page 13",
-        "order": 4
+        "order": 7
       },
       "components": [
         {
@@ -1917,7 +1917,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Page 14",
-        "order": 3
+        "order": 6
       },
       "components": [
         {
@@ -2022,7 +2022,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "Page 15",
-        "order": 2
+        "order": 5
       },
       "components": [
         {
@@ -2205,7 +2205,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "Page 16",
-        "order": 1
+        "order": 4
       },
       "components": [
         {
@@ -2361,6 +2361,371 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-2d"
+        }
+      ]
+    },
+    "page17.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "Page 17",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "5",
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0155-2-kopie-1747x2079.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0155-2-kopie-1747x2079-800x952.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0465-kopie-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0465-kopie-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0584-kopie-3-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0584-kopie-3-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0588-kopie-2-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0588-kopie-2-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20160512-0001-kopie-3-1419x965.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160512-0001-kopie-3-1419x965-800x544.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20160516-0001-kopie-3-2000x1756.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160516-0001-kopie-3-2000x1756-800x702.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20160516-0008-kopie-1434x1131.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160516-0008-kopie-1434x1131-800x630.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20160516-0011-kopie-2000x1610.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160516-0011-kopie-2000x1610-800x644.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/photo0127-01-kopie-2000x3101.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo0127-01-kopie-2000x3101-800x1240.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20160516-0019-kopie-2000x3053.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160516-0019-kopie-2000x3053-800x1221.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20160516-0020-kopie-2000x3108.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160516-0020-kopie-2000x3108-800x1243.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20160516-0021-kopie-2000x3041.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160516-0021-kopie-2000x3041-800x1216.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20160516-0022-kopie-2000x1302.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160516-0022-kopie-2000x1302-800x520.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20160516-0025-kopie-2000x1454.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160516-0025-kopie-2000x1454-800x581.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20160516-0046-kopie-2000x1307.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160516-0046-kopie-2000x1307-800x522.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20160516-0047-kopie-2-2000x2333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160516-0047-kopie-2-2000x2333-800x933.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20160516-0056-kopie-2000x3041.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160516-0056-kopie-2000x3041-800x1216.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20160516-0058-kopie-2000x1297.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160516-0058-kopie-2000x1297-800x518.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20160516-0065-kopie-2000x1332.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160516-0065-kopie-2000x1332-800x532.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20160517-0049-kopie-2-2000x2620.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160517-0049-kopie-2-2000x2620-800x1048.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img049-kopie-4-1799x1040.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img049-kopie-4-1799x1040-800x462.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20160910-0001-kopie-1477x983.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160910-0001-kopie-1477x983-800x532.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-2h"
+        }
+      ]
+    },
+    "page18.html": {
+      "settings": {
+        "meta_descr": "Web Site Creator Description",
+        "title": "Page 18",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img123.bestejpg-kopie-3-1799x1199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img123.bestejpg-kopie-3-1799x1199-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20160709-0003-kopie-2-2000x1454.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160709-0003-kopie-2-2000x1454-800x581.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-2j"
+        }
+      ]
+    },
+    "page19.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Page 19",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20160709-0014-kopie-1590x864.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2k"
         }
       ]
     }
