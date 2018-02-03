@@ -1,6 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
 
 
 
@@ -413,6 +415,68 @@ h6,
 }
 .scrollToTop_wraper {
   opacity: 0 !important;
+}
+#ext_menu-3e .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-3e .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-3e .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-3e .close-icon::before,
+#ext_menu-3e .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-3e .link,
+#ext_menu-3e .dropdown-item {
+  color: #ffffff;
+  font-family: 'Arimo', sans-serif;
+}
+#ext_menu-3e .link {
+  font-size: 0.8rem;
+}
+#ext_menu-3e .dropdown-item,
+#ext_menu-3e .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#ext_menu-3e .link:hover,
+#ext_menu-3e .dropdown-item:hover,
+#ext_menu-3e .link:focus,
+#ext_menu-3e .dropdown-item:focus {
+  color: #000000;
+}
+#ext_menu-3e .link[aria-expanded="true"],
+#ext_menu-3e .dropdown-menu {
+  background: #e6e6e6;
+}
+#ext_menu-3e .nav-dropdown-sm .link:focus,
+#ext_menu-3e .nav-dropdown-sm .link:hover,
+#ext_menu-3e .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-3e .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#ext_menu-3e .navbar,
+#ext_menu-3e .nav-dropdown-sm,
+#ext_menu-3e .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-3e .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#ext_menu-3e .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-3e .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-3e .bg-color.transparent.opened .link:hover,
+#ext_menu-3e .bg-color.transparent.opened .link:focus {
+  color: #000000;
+}
+#ext_menu-3e .link[aria-expanded="true"],
+#ext_menu-3e .dropdown-item[aria-expanded="true"] {
+  color: #000000!important;
 }
 #features1-3a .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #000000;
