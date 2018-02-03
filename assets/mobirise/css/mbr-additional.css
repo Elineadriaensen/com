@@ -475,6 +475,19 @@ h6,
 #ext_menu-2f .dropdown-item[aria-expanded="true"] {
   color: #efefef!important;
 }
+#features7-33 .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-33 .iconbox {
+  background-color: #efefef;
+  border-color: #efefef;
+}
+#features1-39 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #ffffff;
+}
+#features1-3a .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #ffffff;
+}
 #gallery4-p LI {
   text-align: right;
 }
