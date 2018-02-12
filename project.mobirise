@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-03_0206",
-    "currentPage": "index.html",
+    "currentPage": "page27.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 184,
+    "uniqCompNum": 186,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -3259,15 +3259,25 @@
       "components": [
         {
           "_params": {
-            "showText": false,
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#fff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">next</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-4y"
+        },
+        {
+          "_params": {
+            "showText": false
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img227-kopie-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-3931-1400x1035.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -3281,21 +3291,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-4x"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">next</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-4y"
+          "_name": "image1",
+          "_anchor": "image1-55"
         }
       ]
     }
