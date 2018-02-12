@@ -3259,19 +3259,6 @@
       "components": [
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">next</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-4y"
-        },
-        {
-          "_params": {
             "showText": false
           },
           "media": {
@@ -3293,6 +3280,19 @@
           ],
           "_name": "image1",
           "_anchor": "image1-55"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">next</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-4y"
         }
       ]
     }
