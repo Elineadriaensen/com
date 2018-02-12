@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-03_0206",
-    "currentPage": "page8.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 187,
+    "uniqCompNum": 194,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -399,7 +399,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "dag nacht raam zee",
-        "order": 21
+        "order": 24
       },
       "components": [
         {
@@ -515,7 +515,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Drawings",
-        "order": 19
+        "order": 22
       },
       "components": [
         {
@@ -789,7 +789,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "'s nachts in de kermis",
-        "order": 18
+        "order": 21
       },
       "components": [
         {
@@ -889,7 +889,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "kleur mensen in voertuigen",
-        "order": 17
+        "order": 20
       },
       "components": [
         {
@@ -1065,7 +1065,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "autotjes",
-        "order": 16
+        "order": 19
       },
       "components": [
         {
@@ -1198,7 +1198,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "jury 2018 2",
-        "order": 15
+        "order": 18
       },
       "components": [
         {
@@ -1357,7 +1357,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page22.html\" data-toolbar=\"-mbrBtnMove\">next</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page29.html\" data-toolbar=\"-mbrBtnMove\">next</a>",
           "_tags": [
             "Theme"
           ],
@@ -1370,7 +1370,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "dino kopjes",
-        "order": 13
+        "order": 16
       },
       "components": [
         {
@@ -1546,7 +1546,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "jury 2018 1",
-        "order": 14
+        "order": 17
       },
       "components": [
         {
@@ -1664,7 +1664,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "Paarden ogen in de nacht",
-        "order": 12
+        "order": 15
       },
       "components": [
         {
@@ -1728,7 +1728,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "C'est doux, West Afrika",
-        "order": 11
+        "order": 14
       },
       "components": [
         {
@@ -1982,7 +1982,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "C'est doux, Bangaly",
-        "order": 10
+        "order": 13
       },
       "components": [
         {
@@ -2033,7 +2033,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "eiland papi",
-        "order": 9
+        "order": 12
       },
       "components": [
         {
@@ -2307,7 +2307,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 7
+        "order": 10
       },
       "components": [
         {
@@ -2436,7 +2436,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Page 21",
-        "order": 6
+        "order": 9
       },
       "components": [
         {
@@ -2616,7 +2616,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "france",
-        "order": 8
+        "order": 11
       },
       "components": [
         {
@@ -2667,7 +2667,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Page 23",
-        "order": 20
+        "order": 23
       },
       "components": [
         {
@@ -2941,7 +2941,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "KRIJT en landschap z w",
-        "order": 5
+        "order": 8
       },
       "components": [
         {
@@ -2987,7 +2987,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Page 25",
-        "order": 4
+        "order": 7
       },
       "components": [
         {
@@ -3135,38 +3135,9 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "man zee",
-        "order": 3
+        "order": 6
       },
       "components": [
-        {
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-62-1999x1329.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-4r"
-        },
         {
           "_inherit": "msg-box5",
           "_params": {
@@ -3239,7 +3210,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Page 26",
-        "order": 2
+        "order": 5
       },
       "components": [
         {
@@ -3277,7 +3248,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "boom lampjes",
-        "order": 1
+        "order": 4
       },
       "components": [
         {
@@ -3316,6 +3287,192 @@
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-4y"
+        }
+      ]
+    },
+    "page28.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "luchtbel",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20160910-0008-kopie-3-1999x1363.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-58"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">next</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-59"
+        }
+      ]
+    },
+    "page30.html": {
+      "settings": {
+        "meta_descr": "Web Generator Description",
+        "title": "Page 30",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "5",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20160910-0004-kopie-2000x1321.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160910-0004-kopie-2000x1321-800x528.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20160910-0002-kopie-2000x1338.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160910-0002-kopie-2000x1338-800x535.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img222-kopie-962x1566.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img222-kopie-962x1566-800x1302.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery4",
+          "_anchor": "gallery4-5a"
+        }
+      ]
+    },
+    "page29.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "man zee",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img139-kopie-1057x1168.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-5c"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dsc-62-1400x1821.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-5b"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page18.html\" data-toolbar=\"-mbrBtnMove\">next</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-5d"
         }
       ]
     }
