@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-03_0206",
-    "currentPage": "page11.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 182,
+    "uniqCompNum": 184,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -171,7 +171,7 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"page14.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">work</a>",
           "button2": "<a data-app-btn=\"true\" href=\"page27.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">more work</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">even more work</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">more work</a>",
           "button4": "<a data-app-btn=\"true\" href=\"page22.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">more work</a>",
           "button5": "<a data-app-btn=\"true\" href=\"page18.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">more work</a>",
           "button6": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">more work<br></a>",
@@ -1006,6 +1006,35 @@
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-49"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/aaz-kopie-2-1024x1228.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page16.html\" data-toolbar=\"-mbrBtnMove\"><br><br></a>                                   ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-53"
         }
       ]
     },
