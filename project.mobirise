@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-03_0206",
-    "currentPage": "index.html",
+    "currentPage": "page11.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 181,
+    "uniqCompNum": 182,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -1474,6 +1474,19 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-1x"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page14.html\" data-toolbar=\"-mbrBtnMove\">next</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-51"
         }
       ]
     },
