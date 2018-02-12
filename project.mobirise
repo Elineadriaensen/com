@@ -78,7 +78,7 @@
             "ShowTexts": false,
             "showButtons": true,
             "columnsColor": "#ffffff",
-            "paddingTop": "2",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "columns": "6",
             "bgImageRadio": false,
