@@ -484,6 +484,9 @@ h6,
 #features1-3z .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #ffffff;
 }
+#features1-5m .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #ffffff;
+}
 #gallery4-p LI {
   text-align: right;
 }
