@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 279,
+    "uniqCompNum": 280,
     "versionPublish": "4.3.2",
     "favicon": "",
     "noImageResize": "true"
@@ -2972,7 +2972,7 @@
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-7q"
+          "_anchor": "header1-7r"
         },
         {
           "_inherit": "gallery1",
