@@ -18,7 +18,7 @@
         "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false,
-        "isRtl": false
+        "isRtl": true
       },
       "additionalSetColors": [
         "#7c3c89",
@@ -196,7 +196,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.8",
+            "fontSize": "1.4",
             "fontName": {
               "name": "Arimo",
               "url": "https://fonts.googleapis.com/css?family=Arimo:400,700",
@@ -205,7 +205,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page31.html\" aria-expanded=\"false\">Eline Adriaensen&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page31.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Eline Adriaensen&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page31.html\" aria-expanded=\"false\">about<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page31.html\" aria-expanded=\"false\">contact<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -228,10 +228,10 @@
               "font-family": "'Arimo', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "1.4rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "1.516rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -376,12 +376,12 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page10.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">more work</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page8.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">more work</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">more work</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page10.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">more work</a>",
           "button3": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">more work</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"page11.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">more work</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"page20.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">more work</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"page25.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">more work<br></a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page8.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">more work</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"page24.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">more work</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"page11.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">more work<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -515,7 +515,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "dag nacht raam zee",
-        "order": 25
+        "order": 16
       },
       "components": [
         {
@@ -631,13 +631,13 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Drawings",
-        "order": 23
+        "order": 19
       },
       "components": [
         {
           "_inherit": "gallery1",
           "_params": {
-            "showBullets": true,
+            "showBullets": false,
             "fullWidth": false,
             "spacing": "5",
             "paddingTop": "1",
@@ -645,19 +645,8 @@
             "filterBgColor": false,
             "bgColor": "fff",
             "showText": false,
-            "filter": true,
+            "filter": false,
             "images": [
-              {
-                "tags": "/ -",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-67-2000x2410.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-67-2000x2410-800x964.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              },
               {
                 "tags": "/ -",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -665,6 +654,17 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/dsc-15-1000x708.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-15-1000x708-800x566.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "/ -",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img00xd1-copy-1525x2158.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img00xd1-copy-1525x2158-800x1132.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -806,11 +806,11 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-67-683x1000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-67-683x1000-683x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-67-2000x2410.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-67-2000x2410-800x964.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "- /",
@@ -819,39 +819,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/dsc-72-679x1000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-72-679x1000-679x1000.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "- /",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-68-1000x719.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-68-1000x719-800x575.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "/ -",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img00xd1-copy-1525x2158.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img00xd1-copy-1525x2158-800x1132.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "/ -",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img003-1222x1775.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img003-1222x1775-800x1162.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -905,7 +872,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "'s nachts in de kermis",
-        "order": 22
+        "order": 15
       },
       "components": [
         {
@@ -1005,7 +972,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "kleur mensen in voertuigen",
-        "order": 21
+        "order": 14
       },
       "components": [
         {
@@ -1181,7 +1148,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "autotjes",
-        "order": 20
+        "order": 17
       },
       "components": [
         {
@@ -1341,7 +1308,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "jury 2018 2",
-        "order": 19
+        "order": 23
       },
       "components": [
         {
@@ -1513,7 +1480,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "dino kopjes",
-        "order": 17
+        "order": 13
       },
       "components": [
         {
@@ -1689,7 +1656,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "jury 2018 1",
-        "order": 18
+        "order": 25
       },
       "components": [
         {
@@ -1807,7 +1774,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "Paarden ogen in de nacht",
-        "order": 16
+        "order": 12
       },
       "components": [
         {
@@ -1871,7 +1838,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "C'est doux, West Afrika",
-        "order": 15
+        "order": 20
       },
       "components": [
         {
@@ -2125,7 +2092,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "C'est doux, Bangaly",
-        "order": 14
+        "order": 21
       },
       "components": [
         {
@@ -2176,7 +2143,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "eiland papi",
-        "order": 13
+        "order": 11
       },
       "components": [
         {
@@ -2450,7 +2417,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 11
+        "order": 8
       },
       "components": [
         {
@@ -2496,7 +2463,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Page 21",
-        "order": 10
+        "order": 7
       },
       "components": [
         {
@@ -2676,7 +2643,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "france",
-        "order": 12
+        "order": 9
       },
       "components": [
         {
@@ -2727,7 +2694,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Page 23",
-        "order": 24
+        "order": 10
       },
       "components": [
         {
@@ -2741,7 +2708,7 @@
             "filterBgColor": false,
             "bgColor": "fff",
             "showText": false,
-            "filter": true,
+            "filter": false,
             "images": [
               {
                 "tags": "/ -",
@@ -2895,7 +2862,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-59-1000x705-800x564.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "/ -",
@@ -2917,7 +2884,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-72-679x1000-679x1000.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "- /",
@@ -2928,7 +2895,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-68-1000x719-800x575.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "/ -",
@@ -3001,7 +2968,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "KRIJT en landschap z w",
-        "order": 9
+        "order": 18
       },
       "components": [
         {
@@ -3071,7 +3038,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "polaroids",
-        "order": 8
+        "order": 6
       },
       "components": [
         {
@@ -3313,7 +3280,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "man zee",
-        "order": 7
+        "order": 22
       },
       "components": [
         {
@@ -3388,7 +3355,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Page 26",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -3426,7 +3393,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "boom lampjes",
-        "order": 5
+        "order": 24
       },
       "components": [
         {
@@ -3741,7 +3708,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.8",
+            "fontSize": "1.4",
             "fontName": {
               "name": "Arimo",
               "url": "https://fonts.googleapis.com/css?family=Arimo:400,700",
@@ -3750,7 +3717,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page31.html\" aria-expanded=\"false\">Eline Adriaensen&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page31.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Eline Adriaensen&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page31.html\" aria-expanded=\"false\">about<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page31.html\" aria-expanded=\"false\">contact<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3773,10 +3740,10 @@
               "font-family": "'Arimo', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "1.4rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "1.516rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
