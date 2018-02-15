@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-03_0206",
-    "currentPage": "page26.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -171,12 +171,12 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page14.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">work</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page27.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">more work</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">more work</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"page29.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">more work</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"page18.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">more work</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">more work<br></a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page14.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">一</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page27.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">二</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\" style=\"background-color: rgb(212, 212, 212); color: rgb(255, 255, 255); outline: -webkit-focus-ring-color auto 5px; white-space: normal; border-color: rgb(212, 212, 212); outline-offset: -2px; background-image: none;\">三</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page29.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">二二</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"page18.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">三二</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"page17.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">三三<br></a>",
           "_tags": [
             "Theme"
           ],
