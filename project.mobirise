@@ -198,7 +198,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "1.4",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Arimo",
               "url": "https://fonts.googleapis.com/css?family=Arimo:400,700",
@@ -230,10 +230,10 @@
               "font-family": "'Arimo', sans-serif"
             },
             ".link": {
-              "font-size": "1.4rem"
+              "font-size": "1.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.516rem"
+              "font-size": "1.245rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3525,7 +3525,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "1.4",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Arimo",
               "url": "https://fonts.googleapis.com/css?family=Arimo:400,700",
@@ -3557,10 +3557,10 @@
               "font-family": "'Arimo', sans-serif"
             },
             ".link": {
-              "font-size": "1.4rem"
+              "font-size": "1.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.516rem"
+              "font-size": "1.245rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
