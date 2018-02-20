@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-03_0206",
-    "currentPage": "index.html",
+    "currentPage": "page21.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 280,
+    "uniqCompNum": 282,
     "versionPublish": "4.3.2",
     "favicon": "",
     "noImageResize": "true"
@@ -207,7 +207,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page31.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Eline Adriaensen&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page31.html\" aria-expanded=\"false\">about<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page31.html\" aria-expanded=\"false\">contact<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page31.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">home&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page31.html\" aria-expanded=\"false\">about<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page31.html\" aria-expanded=\"false\">contact<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -517,7 +517,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "9 -- tekeningen",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -801,7 +801,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "11 -- 's nachts in de kermis",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -931,7 +931,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "10 -- kleur mensen in voertuigen",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -1137,7 +1137,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "7 -- autotjes",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -1327,7 +1327,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "3 -- jury straat flits fotopolymeer",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -1529,7 +1529,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "12 -- dino kopjes",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -1735,7 +1735,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "1 -- jury kopjes en vlees",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -1883,7 +1883,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "6 -- C'est doux, West Afrika",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -2167,7 +2167,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "5 -- C'est doux, Bangaly",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -2248,7 +2248,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "17-- eiland papi",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -2353,7 +2353,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "13 -- frankrijk bos",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -2450,7 +2450,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "8 -- KRIJT en landschap z w",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -2560,7 +2560,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "18 -- polaroids",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -2832,7 +2832,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "15 -- strand mist",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -2942,7 +2942,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "14 -- sneeuw stippels",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -3079,7 +3079,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "2 -- boom lampjes",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -3155,7 +3155,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "16 -- luchtbel",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -3304,7 +3304,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "meisje in de bus",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -3385,7 +3385,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "4 -- man zee",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -3512,7 +3512,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "contact",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -3534,7 +3534,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page31.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Eline Adriaensen&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page31.html\" aria-expanded=\"false\">about<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page31.html\" aria-expanded=\"false\">contact<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page31.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">home&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page31.html\" aria-expanded=\"false\">about<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page31.html\" aria-expanded=\"false\">contact<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3662,6 +3662,136 @@
               "color": "#232323"
             }
           }
+        }
+      ]
+    },
+    "page21.html": {
+      "settings": {
+        "meta_descr": "Web Generator Description",
+        "title": "about",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1.15",
+            "fontName": {
+              "name": "Arimo",
+              "url": "https://fonts.googleapis.com/css?family=Arimo:400,700",
+              "css": "'Arimo', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page31.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">home&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page31.html\" aria-expanded=\"false\">about<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page31.html\" aria-expanded=\"false\">contact<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
+              "font-family": "'Arimo', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.15rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.245rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#000000!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-7s"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/manbankok-2-kopie.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0"
+          },
+          "title": "<br>Eline Adriaensen",
+          "text": "1997<br>Antwerp - Gent<br>2nd bacheler in fine arts Luca School Of Arts in Gent&nbsp;<br>Drawing, printmaking and photographie<br><br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-7t"
         }
       ]
     }
